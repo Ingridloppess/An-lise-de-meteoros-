@@ -46,7 +46,7 @@ As análises realizadas incluem:
 
 pip install pandas matplotlib seaborn
 
-3.  Execute o notebook: Abra o Jupyter Notebook ou Google Colab e execute o arquivo Analise_meteoros.ipynb.
+3.  Execute o notebook: Abra o Jupyter Notebook ou Google Colab e execute o arquivo An-lise-de-meteoros.ipynb.
    
 📈 Resultados
 Este projeto proporciona insights sobre a distribuição temporal e geográfica dos meteoros, além de revelar padrões na massa e nos locais de queda. As análises gráficas permitem observar tendências que podem estar relacionadas com mudanças tecnológicas na observação ou fenômenos naturais.

@@ -13,7 +13,8 @@ As análises realizadas incluem:
 
 1. **Distribuição ao Longo dos Anos**: Visualização dos meteoros observados ao longo do tempo para identificar padrões e possíveis picos de atividade.
    
-   ![Distribuição dos Meteoros ao Longo dos Anos](images/distribuicao_meteoros.png) <!-- Substitua com o caminho correto da imagem se necessário -->
+   ![Distribuição dos Meteoros ao Longo dos Anos](![Distribuição dos Meteoros ao Longo dos Anos](https://github.com/user-attachments/assets/8e3ec551-67ea-42ac-be4c-2b7ee2cfc933)
+) <!-- Substitua com o caminho correto da imagem se necessário -->
 
 2. **Localização Geográfica dos Meteoros**: Mapeamento das localizações de queda, mostrando as coordenadas de latitude e longitude dos meteoros observados.
    

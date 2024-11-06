@@ -40,7 +40,7 @@ As análises realizadas incluem:
 
 1. **Clone o repositório**:
 
-   git clone https://github.com/seuusuario/Analise-de-Meteoros.git
+   git clone https://github.com/Ingridloppess/An-lise-de-meteoros-.git
 
 2.   Instale as dependências:
 

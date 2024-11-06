@@ -13,12 +13,13 @@ As análises realizadas incluem:
 
 1. **Distribuição ao Longo dos Anos**: Visualização dos meteoros observados ao longo do tempo para identificar padrões e possíveis picos de atividade.
    
-  (![Distribuição dos Meteoros ao Longo dos Anos](https://github.com/user-attachments/assets/8e3ec551-67ea-42ac-be4c-2b7ee2cfc933)
+  ![Distribuição dos Meteoros ao Longo dos Anos](https://github.com/user-attachments/assets/8e3ec551-67ea-42ac-be4c-2b7ee2cfc933)
 
 
 2. **Localização Geográfica dos Meteoros**: Mapeamento das localizações de queda, mostrando as coordenadas de latitude e longitude dos meteoros observados.
    
-   ("C:\Users\ingri\OneDrive\Área de Trabalho\Ingrid\Localização Geográfica dos Meteoros.png")
+  ![Localização Geográfica dos Meteoros](![Localização Geográfica dos Meteoros](https://github.com/user-attachments/assets/ec0f5748-181e-4f32-ba9d-728fcd2c4fd2)
+)
 
 3. **Distribuição das Massas**: Análise da distribuição das massas dos meteoros, identificando tamanhos mais comuns e a variação de massa.
    

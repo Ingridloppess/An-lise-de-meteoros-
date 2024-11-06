@@ -39,6 +39,21 @@ As análises realizadas incluem:
 ## 🚀 Como Executar
 
 1. **Clone o repositório**:
-   ```bash
+
    git clone https://github.com/seuusuario/Analise-de-Meteoros.git
+
+2.   Instale as dependências:
+
+pip install pandas matplotlib seaborn
+
+3.  Execute o notebook: Abra o Jupyter Notebook ou Google Colab e execute o arquivo Analise_meteoros.ipynb.
+   
+📈 Resultados
+Este projeto proporciona insights sobre a distribuição temporal e geográfica dos meteoros, além de revelar padrões na massa e nos locais de queda. As análises gráficas permitem observar tendências que podem estar relacionadas com mudanças tecnológicas na observação ou fenômenos naturais.
+
+🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para sugestões ou enviar pull requests.
+
+📝 Licença
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 

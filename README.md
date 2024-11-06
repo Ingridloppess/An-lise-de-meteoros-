@@ -18,7 +18,7 @@ As análises realizadas incluem:
 
 2. **Localização Geográfica dos Meteoros**: Mapeamento das localizações de queda, mostrando as coordenadas de latitude e longitude dos meteoros observados.
    
-  ![Localização Geográfica dos Meteoros](![Localização Geográfica dos Meteoros](https://github.com/user-attachments/assets/ec0f5748-181e-4f32-ba9d-728fcd2c4fd2)
+![Localização Geográfica dos Meteoros](https://github.com/user-attachments/assets/ec0f5748-181e-4f32-ba9d-728fcd2c4fd2)
 )
 
 3. **Distribuição das Massas**: Análise da distribuição das massas dos meteoros, identificando tamanhos mais comuns e a variação de massa.
